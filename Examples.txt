@@ -1,0 +1,14 @@
+Example 1 (Fake):
+title:
+BREAKING: Scientists Find Evidence of Caffeinated Spiders Weaving Coffee Beans in Colombian Jungle!
+
+text:
+A research team from the International Institute of Unverified Science has published a shocking report today claiming the discovery of a new species of arachnid in the remote mountains of Colombia. According to the lead author, Dr. Alistair Finch, these spiders have evolved to consume raw coffee cherries, and their silk glands produce a web material that is chemically identical to roasted coffee beans. Local farmers are reportedly abandoning their crops, fearing the "caffeine webs" are a sign of an impending apocalypse.
+
+
+Example 2 (Real):
+title:
+Federal Reserve Signals Steady Interest Rates Amidst Stable Inflation
+
+Text:
+WASHINGTON – The Federal Reserve concluded its two-day policy meeting on Wednesday, announcing that it would hold benchmark interest rates steady in the current range of 5.25% to 5.5%. In a statement, officials noted that while economic growth remains solid, inflation has shown signs of stabilizing closer to the central bank's 2% target. Chairman Jerome Powell indicated that the committee will continue to monitor incoming economic data before considering any future adjustments, emphasizing a data-dependent approach to monetary policy.

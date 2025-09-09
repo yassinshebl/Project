@@ -68,10 +68,8 @@ class FakeNewsClassifier:
         plt.show()
 
     def save_best_model_and_vectorizer(self, model_folder_path):
-        """Saves the best performing model and the vectorizer to disk."""
         print("\n--- Saving the best model and vectorizer ---")
         
-        # Ensure the target directory exists
         os.makedirs(model_folder_path, exist_ok=True)
         
         best_model_name = max(self.results, key=self.results.get)
