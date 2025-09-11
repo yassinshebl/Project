@@ -29,6 +29,7 @@ class FakeNewsClassifier:
         self.data.drop(columns=['Unnamed: 0'], inplace=True)
         self.data.dropna(inplace=True)
         print("Dataset loaded successfully.")
+        print("\n", self.data.head())
 
     def prepare_and_vectorize_data(self):
         print("\n--- Preparing and Vectorizing Data ---")
